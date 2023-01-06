@@ -1,4 +1,4 @@
-## HEAD
+## 1.0.0
 
 * Upgrade braintree to 2.23.0 for bug fixes and fraud detection with deviceData.
 
