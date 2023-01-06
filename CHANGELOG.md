@@ -1,3 +1,17 @@
+## 1.3.0
+
+* Update to use forked solidus_frontend when needed.
+* Add deprecation notice to README.
+* Suggest setting a value for environment preference.
+* Adopt CircleCI instead of Travis.
+* Test suite improvements.
+* Fix references to `Spree.t`.
+* Extension maintenance.
+* Remove 2.2 from CI (EOL).
+* Fix Travis issue with Solidus old versions (Factory Bot gem).
+* Remove versions past EOL from .travis.yml.
+* Add Solidus 2.7 to .travis.yml.
+
 ## 1.2.0
 
 ## 1.1.0
